@@ -1,0 +1,3 @@
+name: Tina
+phone: 123456
+email: ggg@mail
